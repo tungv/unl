@@ -357,7 +357,7 @@ braces@^1.8.2:
     preserve "^0.2.0"
     repeat-element "^1.1.2"
 
-brn@^1.0.2, brn@^1.0.3:
+brn@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/brn/-/brn-1.0.3.tgz#bd4a023c4d715f254ecdc4b3e2731a958a175b57"
 
@@ -1636,12 +1636,6 @@ nan@^2.3.0:
 natural-compare@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
-
-neg@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/neg/-/neg-1.0.1.tgz#bc68d4082b1fadf76f4e38f2295efc6fc5be7fac"
-  dependencies:
-    brn "^1.0.2"
 
 node-int64@^0.4.0:
   version "0.4.0"
